@@ -81,11 +81,7 @@
   "modifiedResources": {
     "isAllModified": false,
     "modifiedResourceIdentifiers": {
-      "context_config": [
-        "6865302b5b4d2c262ab0b46e_ba92c01a-1c77-4af8-acc0-cdab1e08e91a",
-        "6865302b5b4d2c262ab0b46e_c6ba468b-1403-4033-9c50-281755cb4589",
-        "6865302b5b4d2c262ab0b46e_4b2f53b7-0d29-491a-a7de-5d8cdc74186b"
-      ],
+      "context_config": [],
       "jslib_config": [],
       "jsobject_config": [],
       "query_config": []
@@ -94,11 +90,7 @@
       "actionCollectionList": [],
       "actionList": [],
       "customJSLibList": [],
-      "pageList": [
-        "Page3",
-        "Page1",
-        "Page2"
-      ]
+      "pageList": []
     }
   },
   "pageList": [
